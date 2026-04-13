@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .vote one-word domains from Unique
 
 **Public extract:** 9,260 rows · **Live catalog:** 9,259 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vote`  
 **Best for:** founders, investors, studios
 
@@ -67,12 +67,12 @@ print(df.head())
 | simple.vote     | available | $49.99    | $127.99       | 128            | 48     | 6      | name.com                                     |
 | web.vote        | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC                                  |
 | gold.vote       | premium   | $195      | $195          | 72             | 48     | 4      | namecheap                                    |
-| support.vote    | available | $49.99    | —             | 90             | 48     | 7      | name.com                                     |
+| support.vote    | available | $49.99    | —             | 90             | 47     | 7      | name.com                                     |
 | pay.vote        | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                                  |
 | big.vote        | premium   | $65       | $65           | 88             | 47     | 3      | namecheap                                    |
 | creative.vote   | available | $49.99    | $127.99       | 92             | 45     | 8      | name.com                                     |
 | sex.vote        | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC                             |
-| green.vote      | premium   | $65       | $65           | 108            | 45     | 5      | namecheap                                    |
+| green.vote      | premium   | $65       | $65           | 108            | 44     | 5      | namecheap                                    |
 | hotel.vote      | available | $119.98   | —             | 70             | 45     | 5      | namecheap                                    |
 | the.vote        | resell    | —         | —             | 98             | 58     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | healthcare.vote | premium   | $1,040    | $1,040        | 76             | 31     | 10     | namecheap                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
