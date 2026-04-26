@@ -1,22 +1,22 @@
-# Available .VOTE One-Word Domains (9,260)
+# Available .VOTE One-Word Domains (11,789)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C260%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C260%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C789%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vote one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vote one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,789 domains** on the canonical page below.
 
-**Public extract:** 9,260 rows · **Live catalog:** 9,260 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,789 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vote`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VOTE one-word domain 
 
 ### Files
 
-- `vote.csv` — public CSV extract (9,260 rows)
-- `vote.json` — public JSON extract (9,260 rows)
+- `vote.csv` — public CSV extract (1,000 rows)
+- `vote.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| simple.vote     | available | $49.99    | $127.99       | 128            | 49     | 6      | name.com                                     |
-| web.vote        | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC                                  |
-| gold.vote       | premium   | $195      | $195          | 72             | 48     | 4      | namecheap                                    |
-| support.vote    | available | $49.99    | —             | 90             | 47     | 7      | name.com                                     |
-| pay.vote        | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                                  |
-| big.vote        | premium   | $65       | $65           | 88             | 47     | 3      | namecheap                                    |
-| creative.vote   | available | $49.99    | $127.99       | 92             | 45     | 8      | name.com                                     |
-| sex.vote        | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC                             |
-| green.vote      | premium   | $65       | $65           | 108            | 44     | 5      | namecheap                                    |
-| hotel.vote      | available | $119.98   | —             | 70             | 45     | 5      | namecheap                                    |
-| the.vote        | resell    | —         | —             | 98             | 58     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| healthcare.vote | premium   | $1,040    | $1,040        | 76             | 31     | 10     | namecheap                                    |
-| nice.vote       | available | $49.99    | $127.99       | 86             | 44     | 4      | name.com                                     |
-| info.vote       | resell    | —         | —             | 80             | 51     | 4      | GoDaddy.com, LLC                             |
-| senior.vote     | premium   | $1,000    | $1,000        | 70             | 30     | 6      | name.com                                     |
-| forge.vote      | available | $49.99    | $127.99       | 62             | 44     | 5      | name.com                                     |
-| life.vote       | resell    | —         | —             | 84             | 50     | 4      | Spaceship, Inc.                              |
-| female.vote     | premium   | $187.50   | $187.50       | 90             | 17     | 6      | name.com                                     |
-| wizard.vote     | available | $49.99    | $127.99       | 118            | 43     | 6      | name.com                                     |
-| and.vote        | resell    | —         | —             | 108            | 48     | 3      | GoDaddy.com, LLC                             |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| coins.vote        | available | $49.99    | —             | 56             | 41     | 5      | name.com         |
+| bills.vote        | resell    | —         | —             | 54             | 19     | 5      | GoDaddy.com, LLC |
+| registration.vote | premium   | $187.50   | —             | 75             | 19     | 12     | name.com         |
+| matcha.vote       | available | $49.99    | —             | 86             | 39     | 6      | name.com         |
+| Obamacare.vote    | premium   | $210      | $210          | 66             | 8      | 10     | namecheap        |
+| neuroscience.vote | available | $49.99    | —             | 80             | 37     | 12     | name.com         |
+| events.vote       | available | $49.99    | —             | 68             | 37     | 6      | name.com         |
+| aliens.vote       | available | $49.99    | —             | 56             | 35     | 6      | name.com         |
+| tickets.vote      | available | $49.99    | —             | 64             | 34     | 7      | name.com         |
+| etc.vote          | available | $49.99    | —             | 58             | 34     | 3      | name.com         |
+| payments.vote     | available | $49.99    | —             | 58             | 33     | 8      | name.com         |
+| partners.vote     | available | $49.99    | —             | 61             | 32     | 8      | name.com         |
+| slots.vote        | available | $49.99    | —             | 49             | 31     | 5      | name.com         |
+| inspiration.vote  | available | $49.99    | —             | 88             | 30     | 11     | name.com         |
+| rewards.vote      | available | $49.99    | —             | 62             | 30     | 7      | name.com         |
+| spaces.vote       | available | $49.99    | —             | 54             | 30     | 6      | name.com         |
+| blocks.vote       | available | $49.99    | —             | 53             | 29     | 6      | name.com         |
+| gems.vote         | available | $49.99    | —             | 70             | 28     | 4      | name.com         |
+| forms.vote        | available | $49.99    | —             | 54             | 28     | 5      | name.com         |
+| photos.vote       | available | $49.99    | —             | 54             | 28     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,260-row public sample | 9,260 live domains                               |
+| 1,000-row public sample | 11,789 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
