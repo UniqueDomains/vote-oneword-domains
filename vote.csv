@@ -675,6 +675,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ca627fa-a70d-49cc-8af0-92bb8da55b9e,onetrickpony.vote,available,49.99,,56,6,14,name.com,,
 3caecdb6-9f9f-4385-bab8-82117d594c4c,keepoff.vote,available,49.99,,70,2,8,name.com,,
 3cca3f72-b548-42ed-937e-1b0e234ecb62,gobeyond.vote,available,49.99,,76,18,9,name.com,,
+3cd8f2e3-b2a8-48ae-b746-d9e1e319158c,rubyred.vote,available,49.99,,76,4,8,name.com,,
 3cefcc46-28a9-4fb4-a954-c02e2af337d2,disobeying.vote,available,49.99,,46,1,10,name.com,,
 3cf4997c-899b-4ce3-8c6f-394824eb05d7,approached.vote,available,49.99,,50,2,10,name.com,,
 3cfeef09-d008-43f5-a4ef-493b82673a41,takedown.vote,available,49.99,,74,11,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58d934c0-7afc-4acc-9a0b-b0d88284bdf4,letsomethingslip.vote,available,49.99,,67,1,18,name.com,,
 58f0b84e-a0a8-4827-a176-c9dd12786f13,precursors.vote,available,49.99,,50,2,10,name.com,,
 590013f9-fcda-44c9-82dd-718b5d88e453,costofgoodssold.vote,available,49.99,,62,1,18,name.com,,
-59001b15-1c23-4673-aef7-679720e6b09d,QandA.vote,available,119.98,,80,10,7,namecheap,,
