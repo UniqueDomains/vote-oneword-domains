@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vote one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,179 domains · **Median ask:** $56.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vote`  
 **Best for:** founders, investors, studios
 
@@ -68,12 +68,12 @@ print(df.head())
 | bills.vote        | resell    | —         | —             | 54             | 19     | 5      | GoDaddy.com, LLC |
 | registration.vote | premium   | $187.50   | —             | 75             | 19     | 12     | name.com         |
 | matcha.vote       | available | $49.99    | —             | 86             | 39     | 6      | name.com         |
-| Obamacare.vote    | premium   | $210      | $210          | 66             | 8      | 10     | namecheap        |
+| Obamacare.vote    | premium   | $210      | $210          | 66             | 7      | 10     | namecheap        |
 | neuroscience.vote | available | $49.99    | —             | 80             | 37     | 12     | name.com         |
 | events.vote       | available | $49.99    | —             | 68             | 37     | 6      | name.com         |
 | tickets.vote      | available | $49.99    | —             | 64             | 34     | 7      | name.com         |
 | etc.vote          | available | $49.99    | —             | 58             | 34     | 3      | name.com         |
-| partners.vote     | available | $49.99    | —             | 61             | 32     | 8      | name.com         |
+| partners.vote     | available | $49.99    | —             | 61             | 31     | 8      | name.com         |
 | slots.vote        | available | $49.99    | —             | 49             | 31     | 5      | name.com         |
 | inspiration.vote  | available | $49.99    | —             | 88             | 30     | 11     | name.com         |
 | rewards.vote      | available | $49.99    | —             | 62             | 30     | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
