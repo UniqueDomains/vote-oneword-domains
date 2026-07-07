@@ -1,10 +1,10 @@
-# Available .VOTE One-Word Domains (12,179)
+# Available .VOTE One-Word Domains (12,180)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C179%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C180%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .vote one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,179 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,180 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,179 domains · **Median ask:** $56.07 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,180 domains · **Median ask:** $53.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vote`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vote`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VOTE one-word domain 
 
 ### Files
 
-- `vote.csv` — public CSV extract (1,000 rows)
-- `vote.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vote.csv`, public CSV extract (1,000 rows)
+- `vote.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| coins.vote        | available | $49.99    | —             | 56             | 41     | 5      | name.com         |
-| bills.vote        | resell    | —         | —             | 54             | 19     | 5      | GoDaddy.com, LLC |
-| registration.vote | premium   | $187.50   | —             | 75             | 19     | 12     | name.com         |
-| matcha.vote       | available | $49.99    | —             | 86             | 39     | 6      | name.com         |
-| Obamacare.vote    | premium   | $210      | $210          | 66             | 7      | 10     | namecheap        |
-| neuroscience.vote | available | $49.99    | —             | 80             | 37     | 12     | name.com         |
-| events.vote       | available | $49.99    | —             | 68             | 37     | 6      | name.com         |
-| tickets.vote      | available | $49.99    | —             | 64             | 34     | 7      | name.com         |
-| etc.vote          | available | $49.99    | —             | 58             | 34     | 3      | name.com         |
-| partners.vote     | available | $49.99    | —             | 61             | 31     | 8      | name.com         |
-| slots.vote        | available | $49.99    | —             | 49             | 31     | 5      | name.com         |
-| inspiration.vote  | available | $49.99    | —             | 88             | 30     | 11     | name.com         |
-| rewards.vote      | available | $49.99    | —             | 62             | 30     | 7      | name.com         |
-| blocks.vote       | available | $49.99    | —             | 53             | 29     | 6      | name.com         |
-| gems.vote         | available | $49.99    | —             | 70             | 28     | 4      | name.com         |
-| forms.vote        | available | $49.99    | —             | 54             | 28     | 5      | name.com         |
-| photos.vote       | available | $49.99    | —             | 54             | 28     | 6      | name.com         |
-| pages.vote        | available | $49.99    | —             | 52             | 28     | 5      | name.com         |
-| backyard.vote     | available | $49.99    | —             | 80             | 27     | 9      | name.com         |
-| KFC.vote          | available | $119.98   | —             | 74             | 27     | 3      | namecheap        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| apt.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| easy.vote      | resell    | —         | —             | high           | medium | 4      | Virtualia LLC                                                      |
+| gold.vote      | premium   | $195      | $195          | high           | medium | 4      | namecheap                                                          |
+| awe.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| alert.vote     | resell    | —         | —             | medium         | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| country.vote   | premium   | $53.92    | $53.92        | high           | low    | 7      | namesilo                                                           |
+| bce.vote       | available | $49.99    | —             | medium         | low    | 3      | name.com                                                           |
+| right.vote     | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.                                                    |
+| england.vote   | premium   | $854      | $854          | high           | low    | 7      | namesilo                                                           |
+| cap.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| america.vote   | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                                                      |
+| bullying.vote  | premium   | $187.50   | —             | medium         | low    | 8      | name.com                                                           |
+| cut.vote       | available | $49.99    | $127.99       | high           | low    | 3      | name.com                                                           |
+| prolife.vote   | premium   | $187.50   | —             | medium         | low    | 8      | name.com                                                           |
+| DJI.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| prochoice.vote | premium   | $187.50   | —             | medium         | low    | 10     | name.com                                                           |
+| dye.vote       | available | $49.99    | —             | medium         | low    | 3      | name.com                                                           |
+| fly.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| gas.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
+| ivy.vote       | available | $49.99    | —             | high           | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,179 live domains                        |
+| 1,000-row public sample | 12,180 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .vote domains. The strongest names are clear, easy to say, and naturally connected to campaigns, advocacy, civic initiatives, polling, or opinion-led brands. Names such as literal.vote, great.vote, and flame.vote are broad and memorable, while terms like nutritive.vote or gourmet.vote are more niche and may suit category-specific concepts. The median ask is 56.08, which helps frame entry pricing, but the better comparison is whether the word fits the .vote ending cleanly and avoids obvious trademark exposure. Be especially careful with exact brand terms such as ford.vote, where legal risk may outweigh price appeal.
+This selection covers .vote domain names built for election campaigns, civic-tech products, and advocacy brands. It spans single-word names like WiFi.vote alongside compound names such as TakeABreak.vote and WonderWoman.vote, giving both investors and founders a range of pricing tiers to evaluate. Median ask across the set is near $53, keeping most names within reach for direct registration rather than resale premiums. Updated daily, the list reflects current availability across roughly 12,180 .vote names.
 
-- All results are one-word domains on the .vote extension
-- Median ask across this selection is 56.08
-- Best fits pair naturally with elections, opinion, or advocacy
-- Avoid exact brand terms where trademark risk looks obvious
+- 12,180 .vote domain names in this selection
+- Median ask near $53 across the set
+- Names span elections, civic tech, and advocacy themes
+- Mix of short, brandable, and compound-word options
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
