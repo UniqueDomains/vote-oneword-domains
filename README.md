@@ -1,10 +1,10 @@
-# Available .VOTE One-Word Domains (28,094)
+# Available .VOTE One-Word Domains (30,321)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C094%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C321%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vote one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,094 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,321 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,094 domains · **Median ask:** $32.80 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 30,321 domains · **Median ask:** $32.64 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/vote`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| support.vote    | available | $23.98    | $119.98       | high           | medium | 7      | namecheap        |
-| lit.vote        | available | $34.99    | $90.99        | high           | medium | 3      | namesilo         |
-| charles.vote    | available | $34.99    | $90.99        | high           | medium | 7      | namesilo         |
-| vigor.vote      | available | $26.26    | $72.61        | high           | low    | 5      | porkbun          |
-| acc.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo         |
-| kelly.vote      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| havana.vote     | premium   | $192      | $192          | high           | low    | 6      | namesilo         |
-| add.vote        | available | $20.90    | $72.65        | high           | low    | 3      | spaceship        |
-| oprah.vote      | resell    | —         | —             | high           | medium | 5      | —                |
-| oxford.vote     | premium   | $187.50   | —             | high           | low    | 6      | name.com         |
-| aec.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo         |
-| paper.vote      | resell    | —         | —             | high           | low    | 5      | eNom, LLC        |
-| budgets.vote    | premium   | $155.45   | $155.45       | medium         | low    | 7      | spaceship        |
-| amy.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo         |
-| modesto.vote    | premium   | $192      | $192          | medium         | low    | 7      | namesilo         |
-| ang.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo         |
-| district.vote   | premium   | $150.50   | $192          | high           | low    | 8      | unstoppable      |
-| apt.vote        | available | $23.98    | $119.98       | high           | low    | 3      | namecheap        |
-| chancellor.vote | premium   | $150.50   | —             | high           | low    | 10     | unstoppable      |
-| blm.vote        | available | $26.97    | $75.12        | high           | low    | 3      | dynadot          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aau.vote        | available | $20.90    | $72.65        | high           | low    | 3      | spaceship   |
+| oprah.vote      | resell    | —         | —             | high           | medium | 5      | —           |
+| havana.vote     | premium   | $192      | $192          | high           | low    | 6      | namesilo    |
+| acc.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo    |
+| paper.vote      | resell    | —         | —             | high           | low    | 5      | eNom, LLC   |
+| oxford.vote     | premium   | $187.50   | —             | high           | low    | 6      | name.com    |
+| add.vote        | available | $20.90    | $72.65        | high           | low    | 3      | spaceship   |
+| budgets.vote    | premium   | $155.45   | $155.45       | medium         | low    | 7      | spaceship   |
+| aec.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo    |
+| modesto.vote    | premium   | $192      | $192          | medium         | low    | 7      | namesilo    |
+| ahn.vote        | available | $70.20    | $70.20        | medium         | low    | 3      | cloudflare  |
+| district.vote   | premium   | $150.50   | $192          | high           | low    | 8      | unstoppable |
+| ang.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo    |
+| sheffield.vote  | premium   | $82.20    | $164.27       | high           | low    | 9      | porkbun     |
+| apt.vote        | available | $23.98    | $119.98       | high           | low    | 3      | namecheap   |
+| chancellor.vote | premium   | $150.50   | —             | high           | low    | 10     | unstoppable |
+| blm.vote        | available | $26.97    | $75.12        | high           | low    | 3      | dynadot     |
+| wilmington.vote | premium   | $192      | $192          | high           | low    | 10     | namesilo    |
+| chl.vote        | available | $34.99    | $90.99        | high           | low    | 3      | namesilo    |
+| denver.vote     | premium   | —         | —             | high           | low    | 6      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,094 live domains                        |
+| 1,000-row public sample | 30,321 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
